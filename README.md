@@ -41,9 +41,5 @@ HOW TO USE
 
 5. run node zombie-swarm.js
 
-6. ????
-
-7. profit
-
 
 
