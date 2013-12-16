@@ -6,7 +6,7 @@
     "start": "node zombie-swarm.js"
   },
   "dependencies": {
-    "Browser": "*",
+    "zombie": "*",
     "async": "*"
   }
 }
